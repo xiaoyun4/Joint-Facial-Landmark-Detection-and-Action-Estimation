@@ -1,5 +1,2 @@
-The Demo of Joint Facial Landmark Detection and Action Estimation
-
-The Comparison of the Article "Joint Facial Landmark Detection and Action Estimation Based on Deep Probabilistic Random Forest".
-
-In the demo, the results of our method and the compared method are presented simultaneously.
+The Demo of Simultaneous Facial Landmark Detection and Action Estimation.
+The Comparison of the Article "Simultaneous Facial Landmark and 3D Action Estimation Based on Probabilistic Random Forest
